@@ -1,0 +1,4 @@
+Arquitectura N Capas
+Entity Framework & Dapper
+Patrón Repositorio
+Diseño de Interfaz con XAML
